@@ -1,4 +1,4 @@
-# OpenOCD Server for STM32 Boards
+# Remote Lab Server for STM32 Boards
 
 To run the programming/debuggin server (OpenOCD) for a particular board:
 ```  
